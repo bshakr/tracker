@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total_index: 9.99
+  waist: 9.99
+  hips: 9.99
+  left_arm: 9.99
+  right_arm: 9.99
+  left_leg: 9.99
+  right_leg: 9.99
+
+two:
+  total_index: 9.99
+  waist: 9.99
+  hips: 9.99
+  left_arm: 9.99
+  right_arm: 9.99
+  left_leg: 9.99
+  right_leg: 9.99

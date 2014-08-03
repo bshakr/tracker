@@ -1,0 +1,28 @@
+development:
+  adapter: postgresql
+  host: localhost
+  port: 5432
+  database: tracker
+  schema_search_path: public
+  encoding: utf8
+
+test:
+  adapter: postgresql
+  port: 5432
+  host: localhost
+  database: tracker
+  username: postgres
+  password: postgres
+  schema_search_path: public
+  encoding: utf8
+
+production:
+  adapter: postgresql
+  port: 5432
+  host: localhost
+  database: tracker
+  username: tracker
+  password:
+  schema_search_path: public
+  encoding: utf8
+
